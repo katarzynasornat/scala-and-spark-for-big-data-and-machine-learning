@@ -25,6 +25,10 @@ Go to (apache.spark.org)[http://spark.apache.org/downloads.html] and download a 
 
 In my case it was a bit older version than the current one (pre-built for Hadoop 2.7 and Later) and preferably Spark 2.0 or later. Therefore I had to find it in previous releases:
 
+- Go: https://archive.apache.org/dist/spark/
+- Pick proper version you want to install. In my case it was the highlighted one:
+
+![Image 3](img/my_release.JPG)
 ### Step 3:
 
 ### Step 4:
