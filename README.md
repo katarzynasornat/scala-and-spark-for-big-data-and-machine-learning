@@ -38,6 +38,6 @@ Go to the place where you downloaded Java Development Kit (in my case it is in _
 
 Click and install. I followed the default settings and in my case everything was installed in _C:\Program Files\Java_ but is important to remember the path, as we will use this later. 
 
-![Image 3](img/jdk_installation1.JPG)
+![Image 3](img/jdk_installation2.JPG)
 
 ### Step 4:
