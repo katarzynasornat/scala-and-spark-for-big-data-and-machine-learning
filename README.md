@@ -11,17 +11,17 @@ Download the latest [Java Development Kit](https://www.oracle.com/java/technolog
 
 When you go to the proper place to download JDK, you should see something like this (in my case I picked the proper 64-bit version for my Windows):
 
-![Image 1](img/jdk_img.JPG)
+![Image 1](img/jdk_img.JPG){width=70%}
 
 Before downloading you need to accept the License Agreements and register your account:
 
-![Image 2](img/jdk_img1.JPG)
+![Image 2](img/jdk_img1.JPG){width=70%}
 
 ### Step 2: Downloading Hadoop & Spark
 
 Go to (apache.spark.org)[http://spark.apache.org/downloads.html] and download a pre-built version of Spark.
 
-![Image 3](img/spark1.JPG)
+![Image 3](img/spark1.JPG){width=70%}
 
 In my case it was a bit older version than the current one (pre-built for Hadoop 2.7 and Later) and preferably Spark 2.0 or later. Therefore I had to find it in previous releases:
 
