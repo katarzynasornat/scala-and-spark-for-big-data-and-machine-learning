@@ -40,4 +40,10 @@ Click and install. I followed the default settings and in my case everything was
 
 ![Image 3](img/jdk_installation2.JPG)
 
-### Step 4:
+### Step 4: Installing Hadoop
+
+### Step 5: Placing _winutils.exe_
+
+### Step 6: Setting PATH and enviromental variables
+
+### Step 7: Testing
