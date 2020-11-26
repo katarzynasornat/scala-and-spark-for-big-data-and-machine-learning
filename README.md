@@ -42,6 +42,10 @@ Click and install. I followed the default settings and in my case everything was
 
 ### Step 4: Installing Hadoop
 
+Extract the downloaded tar.gz file, in my case it is spark-2.0.2-bin-hadoop2.7-tar.gz file. You may need to extract this twice in order to get the full folder to show.
+
+Once you have this folder, go to your C drive and create a new folder called **Spark** and copy and paste the contents of the unzipped spark-2.0.2-bin-hadoop2.7-tar.gz file to this new Spark folder you just created.
+
 ### Step 5: Placing _winutils.exe_
 
 ### Step 6: Setting PATH and enviromental variables
