@@ -7,7 +7,12 @@ Below I summarized all the points to cover the local setup on Windows for Hadoop
 
 ### Step 1: Downloading JDK
 
-Download the latest Java Development Kit that matches your system (32-bit vs 64-bit). You can find the download website from Oracle here or just Googling "Java Development Kit".
+Download the latest [Java Development Kit](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) that matches your system (32-bit vs 64-bit). You can find the download website from Oracle here or just Googling "Java Development Kit".
+
+When you go to the proper place to download JDK, you should see something like this (in my case I picked the proper 64-bit version for my Windows):
+![Test Image 1](img/jdk_img.JPG)
+
+Before downloading you need to accept the License Agreements and register your account:
 
 ### Step 2: Downloading Hadoop & Spark
 
