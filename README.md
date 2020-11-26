@@ -55,3 +55,4 @@ Once you have this folder, go to your C drive and create a new folder called **S
 ### Step 8: Installing Atom (additional step)
 
 Installation of version 1.51 recommended as for more recent there is an error during platformio installation if you do not have Visual Studio Code installed.
+https://github.com/atom/atom/releases/tag/v1.51.0
