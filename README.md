@@ -51,3 +51,7 @@ Once you have this folder, go to your C drive and create a new folder called **S
 ### Step 6: Setting PATH and enviromental variables
 
 ### Step 7: Testing
+
+### Step 8: Installing Atom (additional step)
+
+Installation of version 1.51 recommended as for more recent there is an error during platformio installation if you do not have Visual Studio Code installed.
